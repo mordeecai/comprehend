@@ -1,0 +1,4 @@
+name: aws-comprehend-poc
+server:
+  port : 8081
+AWS_CREDENTIAL_PROFILES_FILE: ~/.aws/credentials
